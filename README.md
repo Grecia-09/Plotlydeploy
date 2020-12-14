@@ -2,7 +2,7 @@
 
 ***Overview***
 
-On this module I was asked to build an interactive dashboard using Plotly.js to explore data on the biodiversity of bellybuttons from people across the country and then diploy it to a cloud server in order for both the research participants, who identity remain anonymous, and fellow researches will be able to access. Those who participated on the study will be able to visit the website and select their ID numbers to see what bacterial species live in their bellybuttons.
+On this module I was asked to build an interactive dashboard using Plotly.js to explore data on the biodiversity of bellybuttons from people across the country and then deploy it to a cloud server in order for both the research participants, who identity remain anonymous, and fellow researches will be able to access. Those who participated on the study will be able to visit the website and select their ID numbers to see what bacterial species live in their bellybuttons.
 
 Using JavaScript, Plotly, and D3.js, I had to resolved the following tasks:
 
