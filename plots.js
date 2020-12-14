@@ -39,9 +39,9 @@ function buildMetadata(sample) {
 
   });
 }
-// 1. Create the buildCharts function.
+// Create the buildCharts function.
 function buildCharts(sample) {
-// 2. Use d3.json to load and retrieve the samples.json file 
+// Use d3.json to load and retrieve the samples.json file 
   d3.json("samples.json").then((data) => {
     // Create a variable that holds the samples array.
     var samples = data.samples;
@@ -83,7 +83,7 @@ function buildCharts(sample) {
     }
     ];
 
-    // 9. Create the layout for the bar chart. 
+    // Create the layout for the bar chart. 
     var barLayout = {
       title: "<b>Top 10 Bacteria Cultures Found<b>",
       margin: { t: 30, l: 150 }
