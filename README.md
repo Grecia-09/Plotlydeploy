@@ -17,3 +17,6 @@ Using JavaScript, Plotly, and D3.js, I had to resolved the following tasks:
 
 3- Create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
+***Live Demo***
+
+You can view the interactive website here: https://grecia-09.github.io/Plotlydeploy/
